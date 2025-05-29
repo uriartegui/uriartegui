@@ -16,12 +16,12 @@
 
 ### 🧰 Tecnologias & Ferramentas
 
-- ✅ **Robot Framework**, **Browser Library**, **Playwright**
-- 🐍 **Python**
-- ☕ **Java** (em aprendizado)
-- 🌐 **HTML**, **CSS**
-- 🧪 Testes automatizados
-- 🖥️ VS Code, Git, GitHub
+- ✅ **Robot Framework**, **Browser Library**, **Playwright**, **Appium**  
+- 🐍 **Python**  
+- ☕ **Java** (em aprendizado)  
+- 🌐 **HTML**, **CSS**  
+- 🧪 Testes automatizados para web e mobile  
+- 🖥️ VS Code, Git, GitHub, ADB (Android Debug Bridge)  
 
 ---
 
