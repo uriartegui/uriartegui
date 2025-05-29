@@ -8,7 +8,7 @@
 ### 🚀 Sobre mim
 
 - 🧪 Explorando o mundo de **Testes Automatizados** com foco em qualidade real.
-- 🛠️ Desenvolvendo projetos como o [`QAx`](https://github.com/uriartegui/QAx), aplicando testes com **Robot Framework** e práticas modernas de QA.
+- 🛠️ Desenvolvendo projetos como o [`QAmobile`](https://github.com/uriartegui/QAmobile) (mobile) e [`QAx`](https://github.com/uriartegui/QAx) (web), aplicando Robot Framework com Selenium, Appium e outras ferramentas modernas de QA.  
 - 💡 Sempre aprendendo e evoluindo — meu lema: *“Be better than yesterday.”*
 - 🌱 Atualmente estudando: **Java**, **HTML** e automação de browser com **Playwright** + **Robot Framework**.
 
@@ -27,6 +27,7 @@
 
 ### 📌 Repositórios em destaque
 
+- [`QAmobile`](https://github.com/uriartegui/QAmobile) – Automação mobile com Robot Framework e Appium.
 - [`QAx`](https://github.com/uriartegui/QAx) – Projeto de automação com foco em testes funcionais e boas práticas em Robot Framework.
 - [`projeto`](https://github.com/uriartegui/projeto) – Explorando CSS e estruturação de páginas.
 - [`uriartegui`](https://github.com/uriartegui) – Meu repositório de perfil e configurações.
