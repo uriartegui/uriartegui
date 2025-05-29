@@ -37,7 +37,7 @@
 
 ### 📫 Fale comigo
 
-- 📧 Email: [guiuriarte@gmail.com](mailto:guiuriarte@gmail.com)  
+- 📧 Email: [guiuriartedev@gmail.com](mailto:guiuriartedev@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/uriartegui19](https://www.linkedin.com/in/uriartegui19/)
 
 Sempre aberto para colaborações, aprender com outros devs e contribuir com projetos QA!
