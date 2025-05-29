@@ -37,7 +37,9 @@
 
 ### 📫 Fale comigo
 
-Você pode me encontrar aqui no GitHub ou me chamar no [LinkedIn](https://www.linkedin.com/in/uriartegui19/).  
+- 📧 Email: [guiuriarte@gmail.com](mailto:guiuriarte@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/uriartegui19](https://www.linkedin.com/in/uriartegui19/)
+
 Sempre aberto para colaborações, aprender com outros devs e contribuir com projetos QA!
 
 ---
