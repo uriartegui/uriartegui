@@ -1,47 +1,92 @@
-## 👋 Olá, eu sou o Uriarte!
+### 👋 Olá, eu sou o Uriarte!
 
-🎯 Tenho paixão por qualidade de software e estou constantemente em busca da excelência técnica.  
-💻 Atualmente focado em automação de testes com **Robot Framework**, **Appium** e **Playwright**, além de aprender **Java** e **HTML** para expandir minhas habilidades em desenvolvimento.
+🎯 Apaixonado por Qualidade de Software e Automação de Testes.
+💻 Focado em construir automações reais, estruturadas e escaláveis para aplicações web e mobile.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🧪 Explorando o mundo de **Testes Automatizados** para garantir qualidade real em aplicações web e mobile.  
-- 🛠️ Desenvolvendo projetos como o [`QAmobile`](https://github.com/uriartegui/QAmobile) (mobile) e [`QAx`](https://github.com/uriartegui/QAx) (web), aplicando Robot Framework com Selenium, Appium e outras ferramentas modernas de QA.  
-- 📱 Sou QA da **Squad Apps**, equipe responsável pelos aplicativos mobile Android/iOS da **Intelbras**, atualmente trabalhando na automação do aplicativo **Guardian** através do projeto **QAmobile**.  
-- 💡 Sempre aprendendo e evoluindo — meu lema: *“Be better than yesterday.”*  
-- 🌱 Atualmente estudando: **Java**, **HTML**, automação de browsers com **Playwright** + **Robot Framework** e testes mobile com **Appium**.
+- 🧪 QA focado em Automação de Testes
+
+- 📱 Experiência com testes mobile Android/iOS
+
+- 🛠️ Desenvolvimento de frameworks próprios para estudo e portfólio
+
+- 💡 Mentalidade de melhoria contínua — “Be better than yesterday.”
+
+- 🌱 Atualmente estudando: Java, Playwright + Robot Framework, arquitetura de testes e boas práticas de automação
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
-- ✅ **Robot Framework**, **Browser Library**, **Playwright**, **Appium**  
-- 🐍 **Python**  
-- ☕ **Java** (em aprendizado)  
-- 🌐 **HTML**, **CSS**  
-- 🧪 Testes automatizados para web e mobile  
-- 🖥️ VS Code, Git, GitHub, ADB (Android Debug Bridge)  
+- ✅ Robot Framework
+
+- 📱 Appium
+
+- 🌐 Playwright
+
+- 🐍 Python
+
+- ☕ Java (em evolução)
+
+- 🌐 HTML / CSS
+
+- 🖥️ VS Code, Git, GitHub, ADB
 
 ---
 
-### 📌 Repositórios em destaque
+### 📌 Projetos em Destaque
 
-- [`QAmobile`](https://github.com/uriartegui/QAmobile) – Automação mobile com Robot Framework e Appium, focado no aplicativo Guardian da Intelbras.  
-- [`QAx`](https://github.com/uriartegui/QAx) – Automação web com Robot Framework e Selenium/Playwright.  
-- [`projeto`](https://github.com/uriartegui/projeto) – Explorando CSS e estruturação de páginas.  
-- [`uriartegui`](https://github.com/uriartegui) – Meu repositório de perfil e configurações.
+### 📱 mihmo-mobile-automation
+
+Framework de automação mobile com Robot Framework + Appium
+- ✔️ Login completo
+- ✔️ Primeiro acesso
+- ✔️ Conta conectada (noReset)
+- ✔️ Tratamento de telas condicionais
+- ✔️ Estrutura escalável de Keywords
+
+### 📱 QAmobile
+
+Projeto de automação mobile baseado no aplicativo Guardian (Intelbras).
+
+### 🌐 QAx
+
+Automação web com Robot Framework e Playwright/Selenium.
 
 ---
 
-### 📫 Fale comigo
+### 💼 Experiência
 
-- 📧 Email: [guiuriartedev@gmail.com](mailto:guiuriartedev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/uriartegui19](https://www.linkedin.com/in/uriartegui19/)
+### 📱 QA na Squad Apps – Intelbras
+Responsável por testes mobile Android/iOS e evolução em automação.
 
-Sempre aberto para colaborações, aprender com outros devs e contribuir com projetos QA!
+### 📱 QA na miHmo – Total Life
+
+Responsável pela qualidade das aplicações mobile (Android/iOS) e web, atuando em:
+
+- 🧪 Testes funcionais e exploratórios
+
+- 📱 Validação de fluxos mobile e responsividade
+
+- 🌐 Testes na aplicação web
+
+- 🐞 Reporte e acompanhamento de bugs
+
+- 🤖 Evolução e implementação de automação de testes
+
+- 🔍 Análise de requisitos e cenários críticos
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+### 📫 Contato
+
+📧 Email: guiuriartedev@gmail.com
+
+💼 LinkedIn: linkedin.com/in/uriartegui19
+
+---
+
+### ⭐ Obrigado por visitar meu perfil!
