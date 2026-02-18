@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o Uriarte!
 
-🎯 Apaixonado por Qualidade de Software e Automação de Testes.
-💻 Focado em construir automações reais, estruturadas e escaláveis para aplicações web e mobile.
+- 🎯 Apaixonado por Qualidade de Software e Automação de Testes.
+- 💻 Focado em construir automações reais, estruturadas e escaláveis para aplicações web e mobile.
 
 ---
 
