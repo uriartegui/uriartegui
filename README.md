@@ -1,93 +1,126 @@
-### 👋 Olá, eu sou o Uriarte!
+### 👋 Hi, I’m Uriarte
 
-🎯 Apaixonado por Qualidade de Software e Automação de Testes.
+🚀 **QA Engineer | Automation Engineer | Product Builder**
 
-💻 Focado em construir automações reais, estruturadas e escaláveis para aplicações web e mobile.
-
----
-
-### 🚀 Sobre mim
-
-- 🧪 QA focado em Automação de Testes
-
-- 📱 Experiência com testes mobile Android/iOS
-
-- 🛠️ Desenvolvimento de frameworks próprios para estudo e portfólio
-
-- 💡 Mentalidade de melhoria contínua — “Be better than yesterday.”
-
-- 🌱 Atualmente estudando: Java, Playwright + Robot Framework, arquitetura de testes e boas práticas de automação
+I build **high-impact systems, scalable automation, and real-world products** focused on reliability, performance, and business outcomes.
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 💰 What I Deliver
 
-- ✅ Robot Framework
-
-- 📱 Appium
-
-- 🌐 Playwright
-
-- 🐍 Python
-
-- ☕ Java (em evolução)
-
-- 🌐 HTML / CSS
-
-- 🖥️ VS Code, Git, GitHub, ADB
+* 🧪 Reduce production bugs through **robust test automation**
+* ⚙️ Build **scalable QA frameworks** for web & mobile
+* 📱 Ensure reliability across **Android & iOS applications**
+* 🏗️ Design systems with **clean architecture and long-term scalability**
+* 📊 Turn quality into a **measurable business advantage**
 
 ---
 
-### 📌 Projetos em Destaque
+### 🧰 Tech Stack
 
-### 📱 mihmo-mobile-automation
+**QA & Automation**
+Robot Framework • Appium • Playwright • Selenium
 
-Framework de automação mobile com Robot Framework + Appium
-- ✔️ Login completo
-- ✔️ Primeiro acesso
-- ✔️ Conta conectada (noReset)
-- ✔️ Tratamento de telas condicionais
-- ✔️ Estrutura escalável de Keywords
+**Languages**
+Python • Java • JavaScript • Dart
 
-### 📱 QAmobile
+**Frontend & Mobile**
+Flutter • Vite
 
-Projeto de automação mobile baseado no aplicativo Guardian (Intelbras).
+**Backend & Architecture**
+Spring Boot • PostgreSQL • REST APIs
+MVVM • Repository Pattern
 
-### 🌐 QAx
+**Cloud & Integrations**
+Supabase (Auth, Realtime, Database)
+AI APIs (LLM integration)
+External APIs (Unsplash, TheMealDB)
 
-Automação web com Robot Framework e Playwright/Selenium.
-
----
-
-### 💼 Experiência
-
-### 📱 QA na Squad Apps – Intelbras
-Responsável por testes mobile Android/iOS e evolução em automação.
-
-### 📱 QA na miHmo – Total Life
-
-Responsável pela qualidade das aplicações mobile (Android/iOS) e web, atuando em:
-
-- 🧪 Testes funcionais e exploratórios
-
-- 📱 Validação de fluxos mobile e responsividade
-
-- 🌐 Testes na aplicação web
-
-- 🐞 Reporte e acompanhamento de bugs
-
-- 🤖 Evolução e implementação de automação de testes
-
-- 🔍 Análise de requisitos e cenários críticos
+**Tools**
+Git • GitHub • VS Code • ADB
 
 ---
 
-### 📫 Contato
+### 🚀 Featured Projects
 
-📧 Email: guiuriartedev@gmail.com
+#### 🍳 Cozinhei — AI-Powered Recipe Platform
 
-💼 LinkedIn: linkedin.com/in/uriartegui19
+A production-oriented mobile app that generates **personalized recipes using AI**.
+
+* Real-time collaborative system (Supabase)
+* AI-driven content generation
+* Scalable architecture (MVVM + Repository)
+* Multi-user environment
+
+👉 Built with **product + scalability mindset**
 
 ---
 
-### ⭐ Obrigado por visitar meu perfil!
+#### 🚀 Qualyra — Quality Management SaaS
+
+A SaaS platform designed to replace spreadsheets with **structured, trackable quality systems**.
+
+* Non-conformity lifecycle tracking
+* Multi-tenant architecture
+* Role-based access control
+* Designed for real business environments
+
+👉 Focused on **turning QA into business intelligence**
+
+---
+
+#### 📱 mihmo-mobile-automation
+
+Scalable mobile automation framework
+
+#### 📱 QAmobile
+
+Mobile automation (Intelbras Guardian)
+
+#### 🌐 QAx
+
+Web automation (Playwright / Selenium)
+
+---
+
+### 💼 Experience
+
+**QA Engineer — Intelbras**
+Mobile testing, automation, and product quality evolution
+
+**QA Engineer — miHmo (Total Life)**
+End-to-end testing, automation, and critical flow validation
+
+---
+
+### ⚡ Positioning
+
+I don’t just test — I **build systems that prevent failure and scale reliably**.
+
+Focused on:
+
+* Performance
+* Scalability
+* Business impact
+* Real-world usage
+
+---
+
+### 📫 Contact
+
+📧 [guiuriartedev@gmail.com](mailto:guiuriartedev@gmail.com)
+💼 linkedin.com/in/uriartegui19
+
+---
+
+### 🧠 Open to
+
+* International opportunities 🌍
+* Freelance / contract work 💰
+* Building SaaS & scalable products 🚀
+
+---
+
+### ⭐
+
+If you're building something that needs to scale I can help you do it right.
